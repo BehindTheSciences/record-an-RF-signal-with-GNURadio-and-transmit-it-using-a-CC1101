@@ -1,2 +1,3 @@
 # record-an-RF-signal-with-GNURadio-and-transmit-it-using-a-CC1101
-Code to record an RF signal with GNURadio (Windows) and transmit it using a CC1101 (Raspbian)
+
+This code can be used to copy and send a 433 MHz signal. The signal source is a garage key fob, as these signals don't have encryption and its modulation is simple (ASK).
